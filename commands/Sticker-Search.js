@@ -50,8 +50,8 @@ async (dest, zk, commandeOptions) => {
     const packname = nomAuteurMessage; // Remplacez par le nom de votre pack de stickers
 
     const stickerMess = new Sticker(gifUrl, {
-      pack: packname,
-      author: 'FLASH-MD',
+      pack: 'RAJ-BOT-OFC',
+      author: '+994407122025',
       type: StickerTypes.FULL,
       categories: ["🤩", "🎉"],
       id: "12345",
