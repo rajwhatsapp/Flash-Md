@@ -230,7 +230,7 @@ france( {
     
     
          let msg = `
-┏━━━┛ FLASH-MD Ranking ┗━━━┓
+┏━━━┛  RANKING  ┗━━━┓
      
   *Name :* ${nomAuteurMessage}
 
@@ -242,7 +242,7 @@ france( {
 
   *Messages :* ${rang.messages}
 
-   ┕━✿━┑  ┍━✿━┙`
+   ┕━✿━┑ RAJ-BOT-OFC ┍━✿━┙`
     
      zk.sendMessage( 
         dest,
