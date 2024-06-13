@@ -61,12 +61,10 @@
         ,
     "HEROKU_API_KEY": {
     "description": "insert your heroku api-key (this is optionnal)",
-    "value": "97534268-a8cd-402e-b063-eeaf10dbf20a"
      "required" :false
     },
    "HEROKU_APP_NAME": {
     "description": "insert your heroku APP NAME (this is optionnal)",
-    "value": "Raj WhatsApp"
      "required" :false
     }  
           ,
